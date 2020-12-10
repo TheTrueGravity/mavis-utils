@@ -1,0 +1,24 @@
+{
+  "name": "mavis-utils",
+  "version": "1.0.0",
+  "description": "The Utilities Package For M.A.V.I.S.",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2",
+    "say": "^0.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTrueGravity/mavis-utils.git"
+  },
+  "author": "TheTrueGravity",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTrueGravity/mavis-utils/issues"
+  },
+  "homepage": "https://github.com/TheTrueGravity/mavis-utils#readme"
+}
