@@ -12,10 +12,9 @@ Description:
 
 An Array Object Where You Get/Set Objects By A string.
 
+#
 
 3 functions:
-
-#
 
 set: Sets an object in the array, 
 
