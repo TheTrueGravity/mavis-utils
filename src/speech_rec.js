@@ -5,7 +5,7 @@ module.exports = function(callback) {
     this.python = spawn('python', ['python\\speech_rec.py']);
     setTimeout(() => {
         console.log("speak")
-        python.stdout.on('data', (data) => {
+        this.python.stdout.on('data', (data) => {
             d = data.toString()
             this.callback(d)
         });
