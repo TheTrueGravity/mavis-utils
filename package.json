@@ -1,12 +1,12 @@
 {
   "name": "mavis-utils",
-  "version": "1.3.0",
+  "version": "1.3.2",
   "description": "The Utilities Package For M.A.V.I.S.",
   "main": "index.js",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
     "brain.js": "^2.0.0-beta.2",
-    "mavis-local-clients": "^1.0.1",
+    "mavis-local-clients": "^1.1.0",
     "mavis-webui": "^1.0.0",
     "say": "^0.16.0",
     "webgl": "^0.0.7"
